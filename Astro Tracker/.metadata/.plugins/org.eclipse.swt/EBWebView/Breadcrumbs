@@ -1,0 +1,116 @@
+5:28:10 Tab10 FinishNav299
+5:28:10 Tab10 PageLoad
+5:28:13 Tab10 StartNav300 #typed
+5:28:13 Tab10 FinishNav300
+5:28:13 Tab10 PageLoad
+5:28:15 Tab10 StartNav301 #typed
+5:28:15 Tab10 FinishNav301
+5:28:15 Tab10 PageLoad
+5:28:16 Tab10 StartNav302 #typed
+5:28:16 Tab10 FinishNav302
+5:28:16 Tab10 PageLoad
+5:28:17 Tab10 StartNav303 #typed
+5:28:17 Tab10 FinishNav303
+5:28:17 Tab10 PageLoad
+5:28:37 Memory Pressure: Moderate
+5:28:47 Memory Pressure: Moderate
+5:28:57 Memory Pressure: Moderate
+5:29:07 Memory Pressure: None
+5:29:22 Memory Pressure: Moderate
+5:29:32 Memory Pressure: Moderate
+5:29:42 Memory Pressure: Moderate
+5:29:52 Memory Pressure: Moderate
+5:29:57 Memory Pressure: None
+5:30:02 Memory Pressure: Moderate
+5:30:03 Tab10 StartNav304 #typed
+5:30:03 Tab10 FinishNav304
+5:30:03 Tab10 PageLoad
+5:30:12 Memory Pressure: Moderate
+5:30:22 Memory Pressure: Moderate
+5:30:32 Memory Pressure: Moderate
+5:30:42 Memory Pressure: Moderate
+5:30:52 Memory Pressure: None
+5:31:02 Memory Pressure: Moderate
+5:31:12 Memory Pressure: Moderate
+5:31:22 Memory Pressure: Moderate
+5:31:32 Memory Pressure: Moderate
+5:31:42 Memory Pressure: Moderate
+5:31:52 Memory Pressure: Moderate
+5:32:02 Memory Pressure: Moderate
+5:32:12 Memory Pressure: Moderate
+5:32:22 Memory Pressure: Moderate
+5:32:32 Memory Pressure: Moderate
+5:32:42 Memory Pressure: Moderate
+5:32:47 Memory Pressure: None
+5:32:52 Memory Pressure: Moderate
+5:33:02 Memory Pressure: Moderate
+5:33:07 Memory Pressure: None
+5:33:22 Memory Pressure: Moderate
+5:33:27 Tab10 StartNav305 #typed
+5:33:27 Tab10 FinishNav305
+5:33:27 Tab10 PageLoad
+5:33:32 Tab14 StartNav306 #typed
+5:33:32 Tab14 FinishNav306
+5:33:32 Tab14 PageLoad
+5:33:32 Memory Pressure: Moderate
+5:33:42 Memory Pressure: Moderate
+5:33:52 Memory Pressure: Moderate
+5:34:02 Memory Pressure: Moderate
+5:34:12 Memory Pressure: Moderate
+5:34:22 Memory Pressure: Moderate
+5:34:32 Memory Pressure: Moderate
+5:34:42 Memory Pressure: Moderate
+5:34:47 Memory Pressure: None
+5:34:55 Tab14 StartNav307 #typed
+5:34:55 Tab14 FinishNav307
+5:34:55 Tab14 PageLoad
+5:35:01 Tab14 StartNav308 #typed
+5:35:01 Tab14 FinishNav308
+5:35:01 Tab14 PageLoad
+5:35:22 Tab10 StartNav309 #typed
+5:35:22 Tab10 FinishNav309
+5:35:22 Tab10 PageLoad
+5:35:52 Memory Pressure: Moderate
+5:36:02 Tab10 StartNav310 #typed
+5:36:02 Tab10 FinishNav310
+5:36:02 Tab10 PageLoad
+5:36:02 Memory Pressure: Moderate
+5:36:12 Memory Pressure: Moderate
+5:36:17 Memory Pressure: None
+5:36:22 Memory Pressure: Moderate
+5:36:32 Memory Pressure: Moderate
+5:36:42 Memory Pressure: None
+5:37:04 Tab10 StartNav311 #typed
+5:37:04 Tab10 FinishNav311
+5:37:04 Tab10 PageLoad
+5:37:04 Microsoft.NewBrowser_Popup
+5:37:05 Microsoft.BrowserList.AddBrowser
+5:37:05 Browser15 Insert active Tab15 at 0
+5:37:05 Tab15 StartNav312 #auto_toplevel
+5:37:05 Tab15 StartNav313 #typed
+5:37:05 Tab10 StartNav314 #typed
+5:37:05 Tab10 FinishNav314
+5:37:05 Tab10 PageLoad
+5:37:05 Tab15 FinishNav312
+5:37:05 Tab15 PageLoad
+5:37:05 Tab15 FinishNav313
+5:37:05 Tab15 PageLoad
+5:37:05 Tab15 StartNav315 #typed
+5:37:05 Tab15 FinishNav315
+5:37:05 Tab15 PageLoad
+5:37:06 Tab10 StartNav316 #typed
+5:37:06 Tab10 FinishNav316
+5:37:06 Tab10 PageLoad
+5:37:06 Tab10 StartNav317 #typed
+5:37:06 Tab10 FinishNav317
+5:37:06 Tab10 PageLoad
+5:37:07 Tab10 StartNav318 #typed
+5:37:07 Tab10 FinishNav318
+5:37:07 Tab10 PageLoad
+5:37:38 Tab10 StartNav319 #typed
+5:37:38 Tab10 FinishNav319
+5:37:38 Tab10 PageLoad
+5:37:40 Tab10 StartNav320 #typed
+5:37:40 Tab10 FinishNav320
+5:37:40 Tab10 PageLoad
+5:38:04 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
